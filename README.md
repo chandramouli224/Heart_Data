@@ -1,5 +1,5 @@
-# Heart_Data_Kaggle
-Predicting heart diseases from Heart Data UCI kaggle
+# Heart_Data
+Predicting heart diseases from Heart Data UCI
 
 Here I'm going to predict whether a person has a heart disease or not 
 
