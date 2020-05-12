@@ -1,8 +1,6 @@
 # Heart_Data_Kaggle
 Predicting heart diseases from Heart Data UCI kaggle
 
-Please download the dataset here: https://www.kaggle.com/ronitf/heart-disease-uci
-
 Here I'm going to predict whether a person has a heart disease or not 
 
 I'll be using below algorithms.
